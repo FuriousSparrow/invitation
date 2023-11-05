@@ -51,7 +51,6 @@ const Quote = () => {
         <br />
         그냥 그렇다고요.
         <br />
-        <br />
       </Content>
     </Wrapper>
   );
