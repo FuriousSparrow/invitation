@@ -39,14 +39,16 @@ const Quote = () => {
     <Wrapper>
       <Image src={Flower} data-aos="fade-up" />
       <Content data-aos="fade-up">
-        장담하건대. 세상이 다 겨울이어도
+        호기심 많은 장난꾸러기 권민이와
         <br />
-        우리 사랑은 늘봄처럼 따뜻하고
+        이러쿵 저러쿵 얼씨구나 혜경이는
         <br />
-        간혹, 여름처럼 뜨거울 겁니다
+        서로와의 수다가 너무 즐거워
+        <br />
+        평생 함께하기로 했어요.
         <br />
         <br />
-        - 이수동, (사랑가) -
+        그냥 그렇다고요.
         <br />
         <br />
       </Content>
