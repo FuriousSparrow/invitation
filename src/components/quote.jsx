@@ -39,6 +39,7 @@ const Quote = () => {
     <Wrapper>
       <Image src={Flower} data-aos="fade-up" />
       <Content data-aos="fade-up">
+        <br />
         호기심 많은 장난꾸러기 권민이와
         <br />
         이러쿵 저러쿵 얼씨구나 혜경이는
