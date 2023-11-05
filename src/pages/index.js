@@ -50,10 +50,9 @@ const IndexPage = () => {
         <source src={Song} />
       </audio>
       <Title />
-      <Greeting />
+      <Quote />
       <Gallery />
       <Location />
-      <Quote />
       <CongratulatoryMoney />
       <Share />
       <Footer
